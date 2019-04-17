@@ -20,3 +20,7 @@ if b is bigger than c it prints b otherwise it prints c.
 ### 2. Unit converters
 
 - You can download UnitConverter.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/UnitConverter.py)
+
+### 3.  Interest calculators
+
+-You can download UnitConverter.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/SimpleInterest.py)
