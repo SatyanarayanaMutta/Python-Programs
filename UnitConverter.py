@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-import math
-import time
 # Unit Converter
 unit1 = input ("Which unit would you like to convert from: ")
 unit2 = input ("Which unit would you like to convert to: ")
