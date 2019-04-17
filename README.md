@@ -37,7 +37,7 @@ For building this logic we will get the interest of principle amount for perticu
 
 - You can download mathTable.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/mathTable.py)
 
-### 4.  GCD of 2 Numbers
+### 5.  GCD of 2 Numbers
 
 - You can download GCDOfNums.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/gcdOfNums.py)
 
