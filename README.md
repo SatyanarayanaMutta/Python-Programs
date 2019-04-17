@@ -23,4 +23,4 @@ if b is bigger than c it prints b otherwise it prints c.
 
 ### 3.  Interest calculators
 
--You can download SimpleCalculator.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/SimpleInterest.py)
+-You can download SimpleInterest.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/SimpleInterest.py)
