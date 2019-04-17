@@ -2,7 +2,7 @@
 Problem solving using python
 
 ## Day1
-### Finding maximum of 3 numbers
+### 1. Finding maximum of 3 numbers
 
 ```
 #!/usr/bin/env python3
@@ -25,4 +25,8 @@ elif(b<c):
 else:
     print("%s is big" %b)
     
+```
+# 2. Unit converters
+
+```
 ```
