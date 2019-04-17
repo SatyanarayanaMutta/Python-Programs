@@ -21,10 +21,23 @@ if b is bigger than c it prints b otherwise it prints c.
 
 - You can download UnitConverter.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/UnitConverter.py)
 
+```
+In this progrsm we are building logic for converting units of length i.e, km to m,m to km etc.
+```
+
 ### 3.  Interest calculators
 
 - You can download SimpleInterest.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/SimpleInterest.py)
 
+```
+For building this logic we will get the interest of principle amount for perticular amount
+```
+
 ### 4.  Math Table Generation
 
 - You can download mathTable.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/mathTable.py)
+
+### 4.  GCD of 2 Numbers
+
+- You can download GCDOfNums.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/gcdOfNums.py)
+
