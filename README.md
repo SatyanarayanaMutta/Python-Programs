@@ -25,6 +25,6 @@ if b is bigger than c it prints b otherwise it prints c.
 
 - You can download SimpleInterest.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/SimpleInterest.py)
 
-### 3.  Math Table Generation
+### 4.  Math Table Generation
 
 - You can download mathTable.py from [here](https://github.com/SkBadulla/Python-Programs/blob/master/mathTable.py)
